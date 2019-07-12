@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://swingao.github.io/</id>
     <title>知衡</title>
-    <updated>2019-05-29T03:01:23.308Z</updated>
+    <updated>2019-07-12T17:08:24.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://swingao.github.io/"/>
     <link rel="self" href="https://swingao.github.io//atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://swingao.github.io//images/avatar.png</logo>
     <icon>https://swingao.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 知衡</rights>
+    <entry>
+        <title type="html"><![CDATA[一次因无知犯下的错误]]></title>
+        <id>https://swingao.github.io//post/yi-ci-yin-wu-zhi-fan-xia-de-cuo-wu</id>
+        <link href="https://swingao.github.io//post/yi-ci-yin-wu-zhi-fan-xia-de-cuo-wu">
+        </link>
+        <updated>2019-07-12T17:07:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://swingao.github.io//post/hello-gridea</id>
